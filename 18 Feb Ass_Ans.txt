@@ -1,0 +1,23 @@
+Q1.
+Ans : APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. In everyday life, we use API's in Facebook or Instagram, check the weather or send an instant message.
+
+Q2.
+Ans : Advantages include Improved Efficiency, Better User Experience, Increased Flexibility, increased scalability, etc.
+Disadvantages include Complexity, compatibility issues, Dependency on Third-Party Developers, etc.
+
+Q3.
+Ans : API is used to communicate between the systems or network.It uses TCP/IP protocol for governance. It can be used offline. It is complex to use and implement. It is light weighted. It uses XML format.
+
+Web API is used strictly in web services. It uses HTTPS protocal for the governance. It is used in web based applications.
+It is light weighted. It is easy to use and implement.
+
+Q4.
+Ans : The SOAP protocol requires applications to store the state between requests, which increases bandwidth and memory requirements. As a result, it makes applications expensive and challenging to scale. Unlike SOAP, REST permits stateless and layered architecture, which makes it more scalable.
+
+SOAP is used only XML format data in web service, whereas JSON and other lightweight formats are not supported by it.
+
+Q5. 
+Ans : The SOAP approach is highly structured and uses XML data format. Because it is XML based and relies on SOAP, it works with WSDL. Works over HTTP, HTTPS, SMTP, XMPP.
+
+
+REST is more flexible and allows applications to exchange data in multiple formats. It works with GET, POST, PUT, DELETE. Works over HTTP and HTTPS.
